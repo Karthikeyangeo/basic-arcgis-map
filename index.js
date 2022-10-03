@@ -46,6 +46,6 @@ require([
         }
       });
 
-    //   view.ui.add(basemapGallery, "top-right"); // Add to the view
+      view.ui.add(basemapGallery, "top-right"); // Add to the view
 
   });
