@@ -1,7 +1,7 @@
 
 // Modules
 
-const API_KEY = 'AAPKa0715609765c41539b67f1e687f0e80bIt8f-GqQ46hfzF9SzK3yJRaPicWvLWaqMXmohp7H3IoADqypgid2CLicEdaI3sC0';
+import API_KEY from '../js/dataAPI.js'
 require([
     "esri/config",
     "esri/Map", 
